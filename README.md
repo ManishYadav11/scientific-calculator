@@ -15,5 +15,6 @@ It is deployed on Vercel for easy access and demonstration.
   3. Start the development server: -- npm start
 
 
-Output : ![Screenshot 2024-07-09 095431](https://github.com/ManishYadav11/scientific-calculator/assets/117844262/7c719238-e6df-4d00-b679-5fa7677505b8)
-Vercel Link : 
+Output : ![Screenshot 2024-07-09 111219](https://github.com/ManishYadav11/scientific-calculator/assets/117844262/ee03aec4-08db-4c9d-b3b3-ac85bcc319a7)
+
+Vercel Link : https://scientific-calculator-nu-six.vercel.app/
